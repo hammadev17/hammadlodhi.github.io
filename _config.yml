@@ -1,3 +1,8 @@
+# theme info
+theme: jekyll-theme-minimal
+title: Hammad's Resume Homepage
+description: Bookmark this to keep an eye on my project updates!
+
 # Where things are
 source              : .
 destination         : ./_site
